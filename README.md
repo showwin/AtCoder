@@ -3,6 +3,12 @@ AtCoder
 
 http://atcoder.jp の回答集  
 
+# atcoder-tools
+https://github.com/kyuridenamida/atcoder-tools
+
+```
+atcoder-tools gen abc110
+```
 
 # Tips
 

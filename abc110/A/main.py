@@ -3,6 +3,13 @@ import sys
 
 
 def solve(A: int, B: int, C: int):
+    l = [A, B, C]
+    if max(l) == A:
+        print(A * 10 + B + C)
+    elif max(l) == B:
+        print(A + B * 10 + C)
+    else:
+        print(A + B + C * 10)
     return
 
 
